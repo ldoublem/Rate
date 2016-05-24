@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Rate.iml" filepath="$PROJECT_DIR$/Rate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SlidingLibrary/SlidingLibrary.iml" filepath="$PROJECT_DIR$/SlidingLibrary/SlidingLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base-adapter-library/base-adapter-library.iml" filepath="$PROJECT_DIR$/base-adapter-library/base-adapter-library.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,1 @@
+include ':app', ':SlidingLibrary',':base-adapter-library'

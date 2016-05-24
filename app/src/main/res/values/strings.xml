@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">汇率转换</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_add">添加货币</string>
+    <string name="action_about">关于</string>
+    <string name="title_activity_base">BaseActivity</string>
+</resources>
